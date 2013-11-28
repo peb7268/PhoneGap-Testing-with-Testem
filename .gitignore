@@ -1,0 +1,7 @@
+plugins
+merges
+.cordova
+platforms
+www/*
+!www/spec.html
+!testem.yml
