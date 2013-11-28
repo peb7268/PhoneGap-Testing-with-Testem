@@ -1,0 +1,8 @@
+src_files:
+- www/js/index.js
+- www/spec/index.js
+
+test_page: "www/spec.html"
+
+launch_in_dev:
+- Chrome
